@@ -21,8 +21,8 @@ It requires approximately 145MB of disk space.
 
 Installing either the Server JRE or JDK is simple and takes around 10 minutes.
 
-* [Installing the Server JRE](Installing the Server JRE on Windows)
-* [Installing the JDK](Installing the JDK on Windows)
+* [Installing the Server JRE](06.installing-the-server-jre-on-windows)
+* [Installing the JDK](05.installing-the-jdk-on-windows)
 
 - - -
 
