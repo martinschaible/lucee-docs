@@ -23,7 +23,7 @@ This will be a complete guide to setting up an environment to run Lucee on a Win
 * [[running-lucee-installing-the-server-jre-on-windows]]
 
 ## Prerequisites##
-* A server running *Windows Server 2008 R2* or *Windows 2012* in an *Active Directory* or *Workgroup*
+* A server running *Windows Server 2008 R2*, *Windows Server 2012*  and *Windows Server 2016* in an *Active Directory* or *Workgroup*
 * .NET 4.5 and IIS installed
 * Full administrator privileges
 * A text editor such as [Notepad++](http://notepad-plus-plus.org/)
